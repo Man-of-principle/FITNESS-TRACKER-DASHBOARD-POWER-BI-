@@ -1,6 +1,8 @@
 # FITNESS-TRACKER-DASHBOARD-POWER-BI-
- ## Fitness Tracker Dashboard
 
+
+## Fitness Tracker Dashboard
+![Fitness dashboard ](https://github.com/user-attachments/assets/20cf4238-7a10-4b2f-8da9-9d7db43a24bc) 
 
  Proud to Present: My Latest Fitness Tracker Dashboard! 🏋️‍♂️
 
@@ -20,8 +22,12 @@ Here’s what makes it stand out:
 
 The dataset was sourced from **datatraining.io**, ensuring the data is reliable and relevant.
 
+Click [Here](https://github.com/Man-of-principle/FITNESS-TRACKER-DASHBOARD-POWER-BI-/issues/1#issue-2466869439) too see a little preview of the Dashboard
+
 Curious to see how it works? 🎥 Click [Here](https://drive.google.com/drive/folders/1tp67EPRnuy82qlytFEU1eh4P5OeesSCS?usp=sharing) to download and interact with the dashboard. I’m excited to hear your thoughts and any feedback you might have!
+
 
 Let’s connect and chat about all things data, design, and beyond!
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harold-wilson-thom-otuya/)
+
